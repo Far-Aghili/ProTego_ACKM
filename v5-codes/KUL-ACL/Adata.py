@@ -3,7 +3,7 @@ KULeuven COSIC
 ProTego Access Control and Key Management framework
 https://protego-project.eu/
 Version 5
-under a BSD licence
+under a BSD license
 """
 #Analyze  the received data and return the result back
 import sys
