@@ -3,7 +3,7 @@ KULeuven COSIC
 ProTego Access Control and Key Management framework
 https://protego-project.eu/
 Version 6.1
-under a BSD licence
+under a BSD license
 """
 import sys
 from Adata import Data_Analyser
